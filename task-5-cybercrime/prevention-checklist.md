@@ -72,4 +72,3 @@
 Yatharth Singh | Reg No: 25BAI10657
 B.Tech Artificial Intelligence — 1st Year
 VIT Bhopal University
-```
